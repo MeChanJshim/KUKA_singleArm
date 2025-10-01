@@ -68,6 +68,21 @@
   > $ echo 'export LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH' >> ~/.bashrc  
   > $ source ~/.bashrc
 
+## Pendent operation
+> ### Setup Pendant
+> T1 state, Key-switch & Emergency Stop Release, Applications → LBRServer
+> ### Connection (Bringup Sequence)
+> Bring up launch should be executed in our PC  
+> - PC IP: 172.31.1.148 (robot will recommand from popup)  
+>   $ ros2 launch lbr_bringup hardware.launch.py ctrl:=lbr_joint_position_command_controller model:=iiwa7  
+>   Then, program ready to get heartbeat of ROBOT  
+>   This cmd can be used only when the robot is connected  
+> - Press “Enabling Switch” of Pendant  
+>   Then play button will be activated
+> - Press “Green ‘>’ Play Button” during around 3 sec while pressing the “Enabling Switch”.  
+>   Then Pop-up appears (select the proper options)  
+>   In here, You can release “Enabling Switch” & “Play Button”  
+
  ## EXECUTION
 > ### Communication with actual robot
 > ** Single KUKA-iiwa7 activate **   
