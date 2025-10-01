@@ -1,13 +1,13 @@
 # KUKA_singleArm
 
 ## HARDWARE
-* ROBOT: UR10CB2  
+* ROBOT: KUKA iiwa7
 * FT SENSOR: AIDIN robotics AFT200-D80
 
 ## IP
-* ROBOT: (Rarm) 192.168.1.120, (Larm) 192.168.1.121
-* PC: 192.168.1.130
-* Sensor: (Rarm) 192.168.1.100, (Larm) 192.168.1.101  
+* ROBOT: -
+* PC: 172.31.1.148
+* Sensor: 172.31.1.111 (Not sure)
 
 ## OS
 * UBUNTU 22.04
