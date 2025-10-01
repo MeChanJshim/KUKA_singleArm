@@ -30,8 +30,8 @@
 ## REQUIRED PACKAGE
 ### lbr-stack
   > Refer: https://github.com/lbr-stack/lbr_fri_ros2_stack/tree/humble
-  > <img width="891" height="491" alt="image" src="https://github.com/user-attachments/assets/f1aa3414-a53a-4def-b8df-1271f3a1e0ea" >
-  > <img width="899" height="973" alt="image" src="https://github.com/user-attachments/assets/2e2d6109-7612-4436-9975-3ed2d47a1ccc" />
+  > <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/f1aa3414-a53a-4def-b8df-1271f3a1e0ea" />
+  > <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2e2d6109-7612-4436-9975-3ed2d47a1ccc" />
 
 ### OSQP
   > ** Build from source file **  
