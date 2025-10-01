@@ -82,7 +82,12 @@
 > - Press “Green ‘>’ Play Button” during around 3 sec while pressing the “Enabling Switch”.  
 >   - Then Pop-up appears (select the proper options)  
 >   - In here, You can release “Enabling Switch” & “Play Button”  
-> - Connection process was completed  
+> - Connection process was completed
+> ### Execute the Program
+> - After connection, by keeping the the “Enabling Switch” & “Play Button” be pressed, we can enter to “Ready? Mode”  
+>   - In here, we should keep pressing the buttons (Enabling Switch” & “Play Button)  
+>   - In addition, we can monitor the joint state in this mode  
+> - Execute any programs  
 
  ## EXECUTION
 > ### Communication with actual robot
