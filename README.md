@@ -13,7 +13,7 @@
 * UBUNTU 22.04
 * ROS2 HUMBLE  
 
-## Sensor IP setting
+## Sensor IP setting (Ethernet ver.)
 > ** Step1 **  
 > : Change the PC IP to “IP: 192.168.1.200, Subnet: 255.255.255.0”  
 > ** Step2 **  
